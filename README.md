@@ -50,8 +50,6 @@ Contributions are welcome! You can improve gameplay, UI, or add features like **
 
 This project is open-source and free for personal or educational use.
 
----
-
 ## 👤 Author
 
 **Fahim Faysal – Front-End Developer**
