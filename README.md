@@ -49,3 +49,12 @@ Contributions are welcome! You can improve gameplay, UI, or add features like **
 ## 📜 License
 
 This project is open-source and free for personal or educational use.
+
+---
+
+## 👤 Author
+
+**Fahim Faysal – Front-End Developer**
+
+- GitHub: [https://github.com/FahimFaysalNirjhar](https://github.com/FahimFaysalNirjhar)
+- Email: [fahimfaysal1995@gmail.com](mailto:fahimfaysal1995@gmail.com)
